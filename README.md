@@ -1,4 +1,4 @@
-# pull-request-experiments
-Following the github guide here: https://guides.github.com/activities/hello-world/
+# Sandbox repository
+The purpose of this repository is to allow a safe envronment to perform git-related experiments.
 
-Adding some changes into the `readme-edits` branch
+For example, pull requets (see this github guide: https://guides.github.com/activities/hello-world/)
